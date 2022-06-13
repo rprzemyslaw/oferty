@@ -1,8 +1,9 @@
-| Plugin | README |
-| ------ | ------ |
-| Dropbox [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| LINK    | NAZWA | TERMIN | FORMA SKŁADANIA | WYMAGANIA | TRUDNOŚĆ |
+| ------- | ----- | ------ | --------------- | --------- | -------- |
+| http://www.oferent.com.pl/przetarg/23320328/?pdata=GkJBHwseAAZfGwFBVkJFQAFMQRlBVlFYBQBPV15YU1kIAh5DVQ== | WYKONANIE AUDYTU DOSTĘPNOŚCI CYFROWEJ USŁUG PUBLICZNYCH | 20.06.2022 | online | cena ofertowa brutto: 60%; doświadczenie wykonawcy w przeprowadzeniu usług w zakresie przeprowadzania audytu dostępności cyfrowej stron internetowych: 40% | średnia |
+| http://www.oferent.com.pl/przetarg/23320700/?pdata=GkJBHwseAAZfGwFBVkJFRANEQRlBVlFYBQBPV15YU1kIAh5DVQ== | Projekt i druk notesów menadżerskich | 24.06.2022 | online | . | wysoka |
+| http://www.oferent.com.pl/przetarg/23319810/?pdata=GkJBHwseAAZfGwFBVkFMSwJEQRlBVlFYBQBPV15YU1kIAh5DVQ== | Skład Biuletynu Niepełnosprawni | 15.06.2022 | poczta elektroniczna | Wykonawcy którzy: a) Posiadają uprawnienia do wykonywania określonej działalności lub czynności, jeśli przepisy prawa nakładają obowiązek posiadanie takich uprawnień; b) Dysponują potencjałem technicznym do wykonania zamówienia. | . |
+| http://www.oferent.com.pl/przetarg/23321342/?pdata=GkJBHwseAAZfGwFBVkJEQAdGQRlBVlFYBQBPV15YU1kIAh5DVQ== | Usługa polegająca na modernizacji strony internetowej | 20.06.2022 | online | 1) modernizacja techniczna strony internetowej Małopolskiej Nocy Naukowców www.nocnaukowcow.malopolska.pl wraz z usługami dodatkowymi niezbędnymi do realizacji zamówienia. W szczególności: a) przeprowadzenie audytu użyteczności (ang. User Experience [UX]) i wprowadzenie poaudytowych poprawek; b) migracja danych celem wykonania projektu zmodyfikowanej strony; c) modyfikacja szaty graficznej witryny i wdrożenie jej do szablonu strony; d) rozbudowa istniejącego lub wdrożenie nowego modułu prezentującego program wydarzenia; e) walidacja błędów na stronie; f) pozycjonowanie strony; g) podniesienie poziomu bezpieczeństwa strony. | wysoka |
+| http://www.oferent.com.pl/przetarg/23315318/?pdata=GkJBHwseAAZfGwFBVkFAQAJMQRlBVlFYBQBPV15YU1kIAh5DVQ== | Opracowanie graficzne mapy turystycznej | 2022-06-17 | online | . | wysoka |
+| http://www.oferent.com.pl/przetarg/23320700/?pdata=GkJBHwseAAZfGwFBVkJFRANEQRlBVlFYBQBPV15YU1kIAh5DVQ== | Projekt i druk notesów menadżerskich | 2022-06-24 12:00 | online | . | . |
+| http://www.oferent.com.pl/przetarg/23320486/?pdata=GkJBHwseAAZfGwFBVkJFRwtCQRlBVlFYBQBPV15YU1kIAh5DVQ== | Przeprowadzenie konsultacji w zakresie dostępności cyfrowej strony internetowej | 2022-06-17 | online | Wykonawca posiada odpowiednią wiedzę, doświadczenie oraz zasoby techniczne i kadrowe umożliwiające realizację przedmiotu zamówienia; | wysoka |
